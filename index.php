@@ -39,7 +39,7 @@
 	</head>
 	<body>
 
-		<h1 id="head" style="">2014重庆理工大学十佳大学生评选统计 </h1>
+		<h1 id="head" style="">2015重庆理工大学十佳大学生评选统计 </h1>
 		
 		<ul id="navigation">
 			<li><span class="active">最新信息</span></li>
